@@ -2,7 +2,7 @@ name: Build
 on:
   push:
     branches:
-      - main
+      - AWS-147
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:
